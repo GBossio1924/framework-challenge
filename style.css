@@ -1,11 +1,8 @@
-a {
-    text-decoration: none;
-  }
-  
-  a:link {
+.nav-link {
     color: #FFFFFF;
   }
-
-  a:hover {
-    color: #999999;
+  
+  .nav-link:hover {
+    color: #FFFFFF;
+    background-color: #900000;
   }
