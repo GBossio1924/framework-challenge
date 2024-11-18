@@ -23,8 +23,10 @@
 }
   
 .error-card-container {
-    margin-left: 500px;
+    margin-left: auto;
     margin-top: 100px;
+    margin-right: auto;
+    max-width: fit-content;
 }
   
 .error-header {
