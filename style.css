@@ -5,3 +5,7 @@ a {
   a:link {
     color: #FFFFFF;
   }
+
+  a:hover {
+    color: #999999;
+  }
